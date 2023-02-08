@@ -1,0 +1,8 @@
+
+
+git merge - merge branch to main
+
+git checkout main - switch to branch main
+
+git branch - see git branches
+
