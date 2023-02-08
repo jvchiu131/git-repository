@@ -6,3 +6,5 @@ git checkout main - switch to branch main
 
 git branch - see git branches
 
+git branch delete
+
